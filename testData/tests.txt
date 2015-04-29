@@ -1,0 +1,115 @@
+<t>
+Ala ma <i="kostki.png">kostki</i> . 
+<e>psa</e>
+<e>wielbłąda</e>
+<e>kubek</e>
+</t>
+<t>
+w teście można umieszczać obrazki używając taga &<i=" <i="abstract1.jpg">image.png</i> ">[tekst_luki]</i>.
+<e>buffalo</e>
+<e>&<e>buffalo&</e></e>
+</t>
+<t>
+Professor X was famous for studying <i="giraffe.jpg">giraffes</i> for over 40 years.
+<e>dogs</e>
+<e>rhinos</e>
+</t>
+<t>
+The world <g>hasn't</g> changed much since the <i="vegetables.jpg">vegetable</i> factory has been opened.
+<e>was</e>
+<e>will</e>
+<e>ice-cream</e>
+<e>meat</e>
+</t>
+<t>
+This is just another test case with <i="vegetables">food</i> and <i="dog.jpg">animal</i> pictures.
+<e>human</e>
+<e>landscape</e>
+<e>while</e>
+<e>doom</e>
+</t>
+<t>
+Creating test cases is a very <g>exciting</g> thing to do.
+<e>boring</e>
+<e>exhausting</e>
+</t>
+<t>
+My friend loves <i="rhino.jpg">rhinos</i> .
+<e>tacos</e>
+<e>airplanes</e>
+</t>
+<t>
+2 + 2 = <g>4</g>
+<e>5</e>
+<e>3</e>
+</t>
+<t>
+Cats may be funny, but they aren't as funny as <i="abstract1.jpg">abstract art</i>
+<e>dogs</e>
+<e>radiators</e>
+</t>
+<t>
+<g>Gap</g> is at the beginning of the sentece in this test case.
+<e>Dragon</e>
+<e>Moon</e>
+</t>
+<t>
+At the end of this test case, there is a <g>gap</g>
+<e>post office</e>
+<e>car</e>
+<e>rhino</e>
+</t>
+<t>
+<i="rhino.jpg">rhino</i> <i="dog.jpg">dog</i>  <i="giraffe.jpg">giraffe</i>
+</t>
+<t>
+( 10 + <g>42</g> ) * 5 = 260
+<e>32</e>
+<e>22</e>
+</t>
+<t>
+If a few <g>answers</g> are the same, all of them are correct.
+<e>answers</e>
+<e>answers</e>
+<e>answers</e>
+</t>
+<t>
+I almost forgot I put a picture of a <i="tree.jpg">tree</i> in that folder.
+<e>whale</e>
+<e>linux kernel</e>
+<e>fire truck</e>
+</t>
+<t>
+People like <i="dog.jpg">dogs</i> more than <i="giraffe.jpg">giraffes</i> but they like <i="giraffe.jpg">giraffes</i> more than <i="rhino.jpg">rhinos</i> .
+<e>airplanes</e>
+<e>dogs</e>
+<e>rhinos</e>
+<e>fire trucks</e>
+<e>lava</e>
+</t>
+<t>
+Johnny was a little happy boy, until one day he got hit by a <i="tree.jpg">tree</i> .
+<e>fire truck</e>
+<e>airplane</e>
+<e>rhino</e>
+</t>
+<t>
+bufalo alo bla blałąół <g>trzeba to wstawić</g> bufalo.
+<e>Tego nie</e>
+<e>Tego też nie</e>
+</t>
+<t>
+&<&<&"&"&<&< <i="kostki.png">&K&O&S&T&K&I</i> dwa trzy cztery.
+<e>obrazekąóąłóąłą</e>
+<e>12345</e>
+</t>
+<t>
+Lorem <g>ipsum</g> dolor sit amet, consectetur adipiscing elit. Morbi purus leo, adipiscing ut cursus id, consequat nec arcu. Ut porta vitae nibh id suscipit. Sed fermentum elit leo, non bibendum velit pharetra in. Nullam accumsan leo vitae elit rhoncus sagittis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Aenean at lectus libero. Vivamus at elit sit amet justo lacinia imperdiet ornare ac ante. Ut egestas, dolor a tristique vestibulum, risus mauris scelerisque neque, sed pulvinar dolor odio non odio. Fusce gravida dolor magna, sit amet rhoncus orci adipiscing eu. Phasellus lobortis leo et lectus lobortis, sit amet porta dolor dictum. Vestibulum sem massa, pellentesque nec lacinia ac, consectetur non erat. Donec ut sollicitudin leo, dictum molestie risus. Quisque vel vulputate justo. Integer sed felis malesuada, dictum justo sit amet, accumsan purus. Aenean mollis molestie nunc, non faucibus neque gravida non. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
+Nullam a quam vel felis pellentesque tristique vel eu purus. Donec ac eros vel risus sagittis pretium. Sed sagittis, nisl non tristique rhoncus, lectus diam viverra sapien, nec rutrum libero nisl non arcu. Suspendisse bibendum pellentesque ligula, non aliquam mi viverra sit amet. Donec id risus ut nibh vestibulum commodo. Pellentesque quis porta tortor, nec tristique tortor. Maecenas massa eros, semper ut elit sit amet, consequat eleifend neque. Praesent rhoncus urna magna, et suscipit justo accumsan et. Etiam aliquet iaculis dolor.
+Nullam sodales, erat sed malesuada <g>pulvinar</g> nunc sapien eleifend lectus, eu feugiat odio diam in urna. Aenean sit amet justo magna. Sed faucibus ultricies neque, ut imperdiet lorem rutrum eget. Cras vulputate sodales rhoncus. Etiam vitae malesuada eros. Curabitur adipiscing gravida ultricies. Curabitur a nunc elit. Sed urna tellus, semper sed lacus vitae, malesuada pharetra ipsum. Nunc sed rhoncus diam, vitae scelerisque massa. In pharetra nisi quis viverra blandit. Praesent lacinia dignissim turpis. Curabitur non rutrum nisi. Nunc sem lacus, adipiscing vitae facilisis eget, laoreet eget metus.
+In consectetur consectetur egestas. Donec interdum tristique cursus. Praesent aliquet vitae turpis ac pellentesque. Vestibulum blandit elementum eros, et rhoncus ante bibendum nec. Maecenas luctus posuere ligula eget consectetur. Suspendisse dolor lorem, pretium non dui ut, tristique gravida est. Ut non facilisis ipsum. Nunc in sapien nec metus iaculis pharetra. Quisque congue metus quis augue dignissim tincidunt.
+Aliquam erat volutpat. Duis posuere massa a nisl ultrices <g>egestas</g> sed quis magna. Nam vehicula sed nisi lacinia fermentum. Donec vitae magna nec elit vestibulum ultrices. Proin mollis massa nec ornare elementum. Vestibulum sodales neque varius sapien ultrices facilisis. Proin vitae dignissim est. Aliquam et scelerisque arcu. Phasellus rutrum enim risus, non eleifend risus faucibus nec. Suspendisse id quam turpis. Praesent iaculis, erat a ultricies imperdiet, lectus nunc molestie tortor, lobortis ullamcorper ipsum erat nec lorem. Donec ut feugiat quam. Curabitur sollicitudin et diam ut sollicitudin.
+Aliquam vitae fermentum felis. Vivamus molestie pretium dapibus. Fusce consequat libero sed magna pellentesque volutpat. Sed hendrerit tincidunt sapien vel tristique. Etiam vulputate ultricies lectus nec vulputate. In hendrerit velit mattis, faucibus urna id, tempor ipsum. Donec fermentum blandit nisl luctus iaculis. Etiam at justo posuere, lobortis metus quis, porttitor magna. In vel condimentum augue. Nullam eleifend odio ac tempus cursus. Integer adipiscing consequat posuere. Vestibulum iaculis nisi vitae sapien pellentesque pulvinar. Sed et augue sit amet ipsum dapibus pellentesque tristique a enim. In sit amet gravida arcu.
+Vestibulum accumsan fermentum odio. Aenean pulvinar in eros non mollis. <g>Phasellus</g> dictum pharetra lorem in sollicitudin. Quisque pharetra in sem vitae volutpat. Praesent mattis vel nisi non ultrices. Quisque et posuere mauris, scelerisque ornare ligula. Etiam vulputate nec dolor quis consequat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Quisque faucibus a odio eu fringilla.
+Ut quis odio a ante condimentum mattis. Aliquam a ante in nibh malesuada dapibus. <g>Vestibulum</g> ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas sit amet elementum mi. Nam vulputate in odio id lobortis. Mauris hendrerit, purus sed ornare faucibus, libero neque rutrum ipsum, posuere malesuada odio enim nec augue. Etiam quis faucibus lectus. Curabitur augue libero, faucibus interdum mattis sit amet, mattis non enim. Aenean vel porttitor augue, eget dictum tellus. Nulla pulvinar vitae nibh eget tempor. Ut mattis elementum suscipit. Vivamus quis vehicula enim. Ut cursus lectus quis erat ornare, a venenatis tortor dignissim. Ut mollis semper erat, vitae pharetra tellus. Praesent eu dui ut est scelerisque pellentesque.
+</t>

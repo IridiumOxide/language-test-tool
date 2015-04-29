@@ -1,0 +1,55 @@
+---- OPIS FORMATU TESTÓW ----
+
+Testy przechowywane są w pliku .txt .
+
+Istnieją następujące polecenia:
+
+<t>
+Otwiera kolejny przypadek testowy.
+Jeśli nie ma otwartego żadnego przypadku testowego,
+nie można dodawać słów/luk/odpowiedzi.
+
+</t>
+Zamyka przypadek testowy.
+
+[słowo]
+Dodaje [słowo] do obecnie otwartego przypadku testowego.
+
+<g>[tekst]</g>
+Tworzy w obecnie otwartym przypadku testowym lukę bez obrazka,
+do której odpowiedzią do niej jest [tekst].
+
+<i="[ścieżka]">[tekst]</i>
+Tworzy w obecnie otwartym przypadku testowym lukę z obrazkiem [ścieżka],
+do której odpowiedzią jest [tekst].
+Obrazki powinny znajdować się w tym samym folderze, co plik .txt z testami.
+Wymiary obrazka zostają zmienione na 100 x 50 px.
+Na pewno obsługiwane są formaty .jpg oraz .png, innych można używać
+na własną odpowiedzialność.
+
+<e>[tekst]</e> 
+Tworzy nową proponowaną odpowiedź - [tekst].
+
+Polecenia powinny być oddzielone spacjami bądź znajdować się w oddzielnych liniach.
+Nie można łamać linii w środku polecenia, czyli
+	<e>[te
+	kst]</e>
+jest niepoprawnym poleceniem, tak samo jak
+	<e>
+	[tekst]
+	</e>
+
+Aby użyć:
+	-znaku '<' na początku słowa lub w środku polecenia, jako fragmentu tekstu
+	-znaku '"' w ścieżce pliku
+	-spacji w środku polecenia [słowo]
+	-znaku '&' gdziekolwiek
+należy napisać odpowiednio "&<", "&"", "& " i "&&".
+Wtedy możemy np. stworzyć proponowaną odpowiedź
+	<e>&<e>[proponowana_odpowiedź]&</e></e>
+która w programie pokaże się jako
+	<e>[proponowana_odpowiedź]</e>
+Ogólniej, każda para znaków "&X", gdzie X to dowolny znak, zostanie
+zinterpretowana jako znak X niebędący częścią żadnego polecenia.
+Możemy więc wszędzie używać znaku '&', jeśli np. jest nam tak wygodniej,
+jednak nie trzeba go stosować wobec znaków takich jak np. '>', '/', '"' poza ścieżką pliku itp.
